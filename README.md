@@ -13,4 +13,4 @@ This project implements a password complexity checker to assess the strength of 
 ## Getting Started
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/password-complexity-checker.git
+   git clone https://github.com/manilreddy1/StartHere_CS_03.git
